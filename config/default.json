@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://prajwal_shenoy:Prajisback619&@devconnect.k0f1z6q.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSecret" : "mysecrettoken"
+}
