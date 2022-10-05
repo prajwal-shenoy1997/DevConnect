@@ -1,4 +1,6 @@
 {
-    "mongoURI": "mongodb+srv://prajwal_shenoy:Prajisback619&@devconnect.k0f1z6q.mongodb.net/?retryWrites=true&w=majority",
-    "jwtSecret" : "mysecrettoken"
+  "mongoURI": "mongodb+srv://prajwal_shenoy:Prajisback619&@devconnect.k0f1z6q.mongodb.net/?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "d20285250046bf309a32",
+  "githubSecret": "34989b641690509a7f849050389b4c0503ad2270"
 }
